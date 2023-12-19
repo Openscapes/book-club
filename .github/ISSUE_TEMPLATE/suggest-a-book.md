@@ -6,12 +6,17 @@ labels: 0/suggestion
 assignees: ''
 
 ---
+## The book
 
 Book title (linked to a source), author(s)
 
 Name of person suggesting the book: 
 
-(optional) The pitch. Why read it? What is the book's relevance to the Openscapes community? 
+**The pitch. Why read it? What is the book's relevance to the Openscapes community?** 
+
+Add your opinions here.
+
+## Logistics
 
 - [ ] I'd love to lead a discussion of this book (via Zoom)
 - [ ] I can arrange a time and share a calendar invite
